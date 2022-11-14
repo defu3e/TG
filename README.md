@@ -6,7 +6,8 @@ Helper class based on curl
 
 ## Usage
 Add php class to your project:
-```require_once('TG.php');```
+```
+require_once('TG.php');
 ```
 Create object of TG:
 ```
