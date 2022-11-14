@@ -1,4 +1,5 @@
 # TG
+Helper class for working with Telegram bot
 
 ## General info
 This class helps to interact with telegram bot
